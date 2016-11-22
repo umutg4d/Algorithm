@@ -1,0 +1,6 @@
+c:\users\win7\documents\visual studio 2015\Projects\Course\Course\bin\Debug\Course.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\Course\Course\bin\Debug\Course.exe
+c:\users\win7\documents\visual studio 2015\Projects\Course\Course\bin\Debug\Course.pdb
+c:\users\win7\documents\visual studio 2015\Projects\Course\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\Course\Course\obj\Debug\Course.exe
+c:\users\win7\documents\visual studio 2015\Projects\Course\Course\obj\Debug\Course.pdb

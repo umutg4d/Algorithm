@@ -1,0 +1,6 @@
+C:\Users\win7\documents\visual studio 2015\Projects\Course\DivideConquer\bin\Debug\DivideConquer.exe.config
+C:\Users\win7\documents\visual studio 2015\Projects\Course\DivideConquer\bin\Debug\DivideConquer.exe
+C:\Users\win7\documents\visual studio 2015\Projects\Course\DivideConquer\bin\Debug\DivideConquer.pdb
+C:\Users\win7\documents\visual studio 2015\Projects\Course\DivideConquer\obj\Debug\DivideConquer.csprojResolveAssemblyReference.cache
+C:\Users\win7\documents\visual studio 2015\Projects\Course\DivideConquer\obj\Debug\DivideConquer.exe
+C:\Users\win7\documents\visual studio 2015\Projects\Course\DivideConquer\obj\Debug\DivideConquer.pdb

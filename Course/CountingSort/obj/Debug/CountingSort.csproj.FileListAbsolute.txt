@@ -1,0 +1,7 @@
+C:\Users\win7\Documents\Visual Studio 2015\Projects\Course\CountingSort\bin\Debug\CountingSort.exe
+C:\Users\win7\Documents\Visual Studio 2015\Projects\Course\CountingSort\bin\Debug\CountingSort.pdb
+C:\Users\win7\Documents\Visual Studio 2015\Projects\Course\CountingSort\obj\Debug\CountingSort.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2015\Projects\Course\CountingSort\obj\Debug\CountingSort.exe
+C:\Users\win7\Documents\Visual Studio 2015\Projects\Course\CountingSort\obj\Debug\CountingSort.pdb
+C:\Users\win7\Desktop\Algorithm\Course\CountingSort\obj\Debug\CountingSort.exe
+C:\Users\win7\Desktop\Algorithm\Course\CountingSort\obj\Debug\CountingSort.pdb
