@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "CountingSort\CountingSort.csproj", "{383CF25B-EBE5-44E3-8C89-B7ACF824DB0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie\Trie.csproj", "{B0A9B656-3A1D-4423-9277-569757A98862}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{383CF25B-EBE5-44E3-8C89-B7ACF824DB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383CF25B-EBE5-44E3-8C89-B7ACF824DB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383CF25B-EBE5-44E3-8C89-B7ACF824DB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A9B656-3A1D-4423-9277-569757A98862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A9B656-3A1D-4423-9277-569757A98862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A9B656-3A1D-4423-9277-569757A98862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A9B656-3A1D-4423-9277-569757A98862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\win7\Desktop\Algorithm\Course\Trie\bin\Debug\Trie.exe
+C:\Users\win7\Desktop\Algorithm\Course\Trie\bin\Debug\Trie.pdb
+C:\Users\win7\Desktop\Algorithm\Course\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Algorithm\Course\Trie\obj\Debug\Trie.exe
+C:\Users\win7\Desktop\Algorithm\Course\Trie\obj\Debug\Trie.pdb

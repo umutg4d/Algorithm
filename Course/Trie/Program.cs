@@ -13,6 +13,7 @@ namespace Trie
         {
             this.arr = new TrieNode[26];
         }
+        public int count;
     }
     class Trie
     {
@@ -31,10 +32,15 @@ namespace Trie
                 if (p.arr[index]==null)
                 {
                     TrieNode temp = new TrieNode();
+                    temp.count++;
                     p.arr[index] = temp;
                     p = temp;
-                }else
+                }
+                else
+                {
                     p = p.arr[index];
+                    p.count++;
+                }
             }
             p.isEnd = true;
         }
@@ -79,13 +85,40 @@ namespace Trie
                 return false;
             else return true;
         }
-
+        public int startWithPrefixCount(string prefix)
+        {
+            TrieNode p = searchWord(prefix);
+            if (p==null)
+            {
+                return 0;
+            }
+            return p.count;
+        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
+            int n = Convert.ToInt32(Console.ReadLine());
+            Trie t = new Trie();
+            List<int> resulti = new List<int>();
+            for (int a0 = 0; a0 < n; a0++)
+            {
+                string[] tokens_op = Console.ReadLine().Split(' ');
+                string op = tokens_op[0];
+                string contact = tokens_op[1];
+                if (op == "add")
+                {
+                    t.insert(contact);
+                }
+                else resulti.Add(t.startWithPrefixCount(contact));
+            }
+            foreach (var item in resulti)
+            {
+                Console.WriteLine(item);
+            }
+            Console.ReadLine();
         }
     }
 }
